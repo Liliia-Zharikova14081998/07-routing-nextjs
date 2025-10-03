@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Projects/Next.js/07-routing-nextjs/app/notes/filter/layout.tsx"],"sourcesContent":["import css from './layout.module.css';\r\n\r\ntype Props = {\r\n    children: React.ReactNode;\r\n    sidebar: React.ReactNode;\r\n};\r\n\r\nexport default function NotesLayout({ children, sidebar }: Props) {\r\n  return (\r\n    <section className={css.container}>\r\n      <aside className={css.sidebar}>{sidebar}</aside>\r\n      <div className={css.notesWrapper}>{children}</div>\r\n    </section>\r\n  );\r\n};\r\n\r\n"],"names":[],"mappings":";;;;;;;;;;;;AAOe,SAAS,YAAY,EAAE,QAAQ,EAAE,OAAO,EAAS;IAC9D,qBACE,8OAAC;QAAQ,WAAW,IAAI,SAAS;;0BAC/B,8OAAC;gBAAM,WAAW,IAAI,OAAO;0BAAG;;;;;;0BAChC,8OAAC;gBAAI,WAAW,IAAI,YAAY;0BAAG;;;;;;;;;;;;AAGzC","debugId":null}}]
+}

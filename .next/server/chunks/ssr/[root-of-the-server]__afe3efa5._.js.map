@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 3, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 35, "column": 0}, "map": {"version":3,"sources":["file:///C:/Projects/Next.js/07-routing-nextjs/app/notes/filter/%40sidebar/default.tsx"],"sourcesContent":["import SidebarNotes from \"./SidebarNotes\";\r\n\r\nexport default function DefaultSidebar() {\r\n  return <SidebarNotes />;\r\n}"],"names":[],"mappings":";;;;;AAAA;;;AAEe,SAAS;IACtB,qBAAO,8OAAC,+JAAY;;;;;AACtB","debugId":null}}]
+}
