@@ -144,6 +144,14 @@ body {
   color: #ddd;
 }
 
+.Header-module__arFiJq__logo {
+  color: #fff;
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-decoration: none;
+}
+
 /* [project]/components/TagsMenu/TagsMenu.module.css [app-client] (css) */
 .TagsMenu-module__9uIDiq__menuContainer {
   display: inline-block;
